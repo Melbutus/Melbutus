@@ -6,7 +6,7 @@
 <Br>
 <h1>Acerca de mí! 😄</h1>
 
-- 👋 Hola a todos, Soy Melanie. Actualmente estoy aprendiendo Data Science.
+- 👋 Hola a todos, Actualmente estoy aprendiendo Data Science.
 - 👀 Me interesa la ingeniería y el análisis de datos
 - ⚡ dato curioso: me encantan los idiomas y la cultura!
 - 😄 Pronouns: ella
