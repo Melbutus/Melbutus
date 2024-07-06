@@ -6,9 +6,9 @@
 <Br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí! 😄</h1>
 
-- 👋 Hola a todos, Actualmente estoy aprendiendo Data Science.
+- Actualmente estoy aprendiendo Data Science.
 - Tengo 22 años
-- 👀 Me interesa la ingeniería y el análisis de datos
+- Me interesa la ingeniería y el análisis de datos
 
 ### Let's Connect :coffee:
 <p align="center">
