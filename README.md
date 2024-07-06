@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Melanie Butus<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>Acerca de mí! 😄</h1>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí! 😄</h1>
 
 - 👋 Hola a todos, Actualmente estoy aprendiendo Data Science.
 - 👀 Me interesa la ingeniería y el análisis de datos
