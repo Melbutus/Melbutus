@@ -9,14 +9,6 @@
 - Actualmente estoy aprendiendo Data Science.
 - Me interesa la ingeniería y el análisis de datos
 
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/Melbutus"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/melanie-butus-7013551a9/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/m.btus/?next=%2F/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
-
 <h4 align="center">
   
 ```diff
@@ -42,6 +34,13 @@
 ```
 
 </h4>  
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/Melbutus"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/melanie-butus-7013551a9/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/m.btus/?next=%2F/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
 
 <br/>
 
