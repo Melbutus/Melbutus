@@ -6,8 +6,16 @@
 <Br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí! 😄</h1>
 
-- Actualmente estoy aprendiendo Data Science en Henry.
-- Me interesa Data Sciece y el Data Analytics.
+¡Hola! Soy Melanie, apasionada por los datos y las historias que cuentan.
+Como estudiante de Data Science en Henry, he aprendido a transformar datos en información valiosa a través de técnicas de limpieza, modelado y visualización, utilizando herramientas como MySQL, Power BI y Python. Cada dato es una pieza de un rompecabezas que, cuando se arma correctamente, revela insights poderosos.
+
+Con una formación en Relaciones Internacionales, aporto una perspectiva única que combina el análisis crítico con un enfoque social. Esto me permite interpretar los datos no solo en números, sino en el impacto que tienen en la vida de las personas y en la toma de decisiones estratégicas.
+
+Soy una persona adaptable, proactiva y en constante aprendizaje. Estoy en la búsqueda de oportunidades desafiantes donde pueda ampliar mi conocimiento y aplicar mis habilidades, contribuyendo al éxito de las empresas a través de decisiones basadas en datos.
+
+Si estás buscando a alguien que pueda aportar una visión fresca y analítica, ¡no dudes en contactarme! Estoy lista para ayudar a tu empresa a descubrir el valor oculto en sus datos.
+
+Email: butusmelanie@gmail.com
 
 <h4 align="center">
   
