@@ -22,10 +22,9 @@ Email: butusmelanie@gmail.com
 </h4>  
 
 ### Let's Connect :coffee:
-<p align="center">
-	gmail: butusmelanie@gmail.com
-	<a href="https://www.linkedin.com/in/melanie-butus-7013551a9/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
+gmail: butusmelanie@gmail.com
+linkedin: https://www.linkedin.com/in/melanie-butus-7013551a9/
+
 
 <br/>
 
