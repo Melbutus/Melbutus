@@ -23,7 +23,7 @@ Email: butusmelanie@gmail.com
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="butusmelanie@gmail.com"><img src="https://www.trecebits.com/wp-content/uploads/2020/11/Gmail-no-molestar.jpg.webp" alt="gmail"/></a>
+	gmail: butusmelanie@gmail.com
 	<a href="https://www.linkedin.com/in/melanie-butus-7013551a9/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
