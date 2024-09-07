@@ -15,15 +15,13 @@ Soy una persona adaptable, proactiva y en constante aprendizaje. Estoy en la bú
 
 Si estás buscando a alguien que pueda aportar una visión fresca y analítica, ¡no dudes en contactarme! Estoy lista para ayudar a tu empresa a descubrir el valor oculto en sus datos.
 
-Email: butusmelanie@gmail.com
-
 <h4 align="center">
   
 </h4>  
 
 ### Let's Connect :coffee:
-gmail: butusmelanie@gmail.com
-linkedin: https://www.linkedin.com/in/melanie-butus-7013551a9/
+- gmail: butusmelanie@gmail.com
+- linkedin: https://www.linkedin.com/in/melanie-butus-7013551a9/
 
 
 <br/>
