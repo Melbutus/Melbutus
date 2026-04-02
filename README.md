@@ -3,7 +3,7 @@
 </h4>  
 
 ### Let's Connect :coffee:
-- gmail: butusmelanie@gmail.com
+- gmail: melbutus@gmail.com
 - linkedin: https://www.linkedin.com/in/melanie-butus-7013551a9/
 
 
